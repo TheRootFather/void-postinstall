@@ -1,0 +1,14 @@
+curl
+xrandr
+fish-shell
+void-repo-nonfree
+void-repo-debug
+void-repo-multilib
+void-repo-multilib-nonfree
+flatpak
+neofetch
+pfetch
+htop
+neovim
+git
+alacritty
